@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR vincent:staff /alx-system_engineering-devops/
+chown -hR vincent:staff alx-system_engineering-devops/
